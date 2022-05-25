@@ -1,4 +1,5 @@
 # reaction-timer
+Player can test his reaction time by clicking start, after which a box will appear on the screen at any time. According to his time player is rewarded a title.
 
 ## Project setup
 ```
